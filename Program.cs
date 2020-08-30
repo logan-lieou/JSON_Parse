@@ -13,7 +13,7 @@ namespace JSON_Parse
         {
             
             // create dotnet object
-    		matchingObject obj = new matchingObject();
+    	    matchingObject obj = new matchingObject();
             obj.Id = Int32.MaxValue;
             obj.Type = "Gold";
 
