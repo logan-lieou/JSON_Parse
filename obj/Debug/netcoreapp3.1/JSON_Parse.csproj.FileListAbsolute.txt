@@ -1,0 +1,14 @@
+/home/loganj/Code/C#/JSON_Parse/obj/Debug/netcoreapp3.1/JSON_Parse.csprojAssemblyReference.cache
+/home/loganj/Code/C#/JSON_Parse/obj/Debug/netcoreapp3.1/JSON_Parse.AssemblyInfoInputs.cache
+/home/loganj/Code/C#/JSON_Parse/obj/Debug/netcoreapp3.1/JSON_Parse.AssemblyInfo.cs
+/home/loganj/Code/C#/JSON_Parse/bin/Debug/netcoreapp3.1/JSON_Parse
+/home/loganj/Code/C#/JSON_Parse/bin/Debug/netcoreapp3.1/JSON_Parse.deps.json
+/home/loganj/Code/C#/JSON_Parse/bin/Debug/netcoreapp3.1/JSON_Parse.runtimeconfig.json
+/home/loganj/Code/C#/JSON_Parse/bin/Debug/netcoreapp3.1/JSON_Parse.runtimeconfig.dev.json
+/home/loganj/Code/C#/JSON_Parse/bin/Debug/netcoreapp3.1/JSON_Parse.dll
+/home/loganj/Code/C#/JSON_Parse/bin/Debug/netcoreapp3.1/JSON_Parse.pdb
+/home/loganj/Code/C#/JSON_Parse/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/loganj/Code/C#/JSON_Parse/obj/Debug/netcoreapp3.1/JSON_Parse.csproj.CopyComplete
+/home/loganj/Code/C#/JSON_Parse/obj/Debug/netcoreapp3.1/JSON_Parse.dll
+/home/loganj/Code/C#/JSON_Parse/obj/Debug/netcoreapp3.1/JSON_Parse.pdb
+/home/loganj/Code/C#/JSON_Parse/bin/Debug/netcoreapp3.1/Npgsql.dll
